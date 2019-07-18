@@ -1,2 +1,2 @@
 # hello-word
-start_pytyon
+start_python
