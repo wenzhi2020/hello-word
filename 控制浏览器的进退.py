@@ -1,5 +1,5 @@
 from selenium import webdriver
-import time
+from time import sleep
 driver = webdriver.Chrome()
 #访问百度首页
 first_url = 'http://www.baidu.com'
